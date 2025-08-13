@@ -1,0 +1,14 @@
+bleak
+pyaudio
+numpy
+requests
+pyggwave
+gpsd-py3
+pillow
+pydub
+geopy
+cryptography
+psutil
+asyncio-mqtt
+fastapi
+websockets

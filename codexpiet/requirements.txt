@@ -1,0 +1,5 @@
+aiohttp
+bleak
+pyaudio
+numpy
+psutil

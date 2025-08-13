@@ -1,0 +1,39 @@
+# SonicWave Server Requirements
+# Install with: pip install -r server_requirements.txt
+
+# Core FastAPI and server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Database connectivity
+aiomysql==0.2.0
+mysql-connector-python==8.2.0
+
+# HTTP client for external API calls
+httpx==0.25.2
+
+# Geocoding and location services
+geopy==2.4.0
+
+# WebSocket support
+websockets==12.0
+
+# Environment variable support
+python-dotenv==1.0.0
+
+# Notification services (optional)
+twilio==8.10.0
+requests==2.31.0
+
+# Development and testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# CORS support
+python-cors==1.7.0
+
+# Additional utilities
+python-dateutil==2.8.2
+pytz==2023.3
