@@ -10,7 +10,7 @@ SonicWave is a resilient and decentralized emergency communication system design
 
 ### **Multi-Transport Mesh Network**
 - **🔵 Bluetooth Low Energy (BLE)** - Short-range device-to-device communication
-- **📡 Wi-Fi UDP Multicast** - Local network emergency broadcasting  
+- **📡 UDP Multicast** - Local network emergency broadcasting  
 - **🎵 Audio (GGWave)** - Sound-based communication when all else fails
 
 ### **Intelligent Location Services**
